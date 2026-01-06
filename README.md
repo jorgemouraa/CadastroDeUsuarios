@@ -1,16 +1,10 @@
-# React + Vite
+Projeto criado, adquirindo experiêcias com M.E.R.N (Mongo, Express, React, Node).
+<br>
+projeto com responsividade para mobile.
+<br>
+<br>
+<img width="1470" height="956" alt="Captura de Tela 2026-01-05 às 22 34 56" src="https://github.com/user-attachments/assets/a2353292-e000-4859-aed0-3e4474804e24" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1470" height="956" alt="Captura de Tela 2026-01-05 às 22 59 16" src="https://github.com/user-attachments/assets/79639a89-0130-465b-9956-4ee42396f381" />
+<img width="1470" height="956" alt="Captura de Tela 2026-01-05 às 23 15 28" src="https://github.com/user-attachments/assets/bd91df1f-c04d-483a-ae78-92d37f7e4aba" />
+<img width="1470" height="956" alt="Captura de Tela 2026-01-05 às 23 01 17" src="https://github.com/user-attachments/assets/ffd95eed-55d3-4f62-bab1-6fdc14ece981" />

@@ -33,8 +33,7 @@ Projeto desenvolvido com foco em responsividade para dispositivos mobile.
 
 ## 🚀 Acesse o projeto
 
-👉 https://jorgemouraa.github.io/CadastroDeUsuarios/
-
+👉 https://github.com/jorgemouraa/CadastroDeUsuarios/tree/main?tab=readme-ov-file
 ---
 
 ## 📌 Status

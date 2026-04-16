@@ -58,7 +58,8 @@ function Home() {
       <TopBackground>
 
 
-        <Img src='./src/img/cadunico.jpeg' />
+        <Img src="/img/cadunico.jpeg" />
+
       </TopBackground>
       <Title>
         Cadastro de Usuário

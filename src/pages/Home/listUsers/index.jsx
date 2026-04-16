@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import api from "../../../Services/api.js";
 import { Container, Title, Img, CardUsers, ContainerUsers, TrashIcon, AvatarUser } from "./styles.js";
 import Button from "../../../Components/Button"
-import FotoUsuarios from "../../../img/users.png";
 import { TopBackground } from "../../Home/style.js";
 import Trash from "../../../assets/trash.svg";
 import { useNavigate }  from "react-router-dom";
@@ -37,7 +36,7 @@ function ListUsers() {
 
     <Container>
       <TopBackground />
-      <Img src={FotoUsuarios} alt="Users" />
+      <Img src="/img/users.png" />
       <Title>Lista de Usuários</Title>
       <ContainerUsers>
         {users.map(user => (
